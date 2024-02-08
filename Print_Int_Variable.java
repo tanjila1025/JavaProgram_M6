@@ -7,4 +7,5 @@ public static void main(String []piv){
 }
 /*output:
 C.T:sucess
-R.T:Sucess:40*/
+R.T:Sucess:40
+*/
