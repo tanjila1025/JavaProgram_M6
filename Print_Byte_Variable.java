@@ -5,4 +5,8 @@ public class Print_Byte_Variable{
       System.out.println(bytevar);
    }
 }
+/*Output:
+C.T:success
+R.T:success:30
+    */
    
