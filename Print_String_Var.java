@@ -7,3 +7,7 @@ public static void main(String []args){
  System.out.println(str1);
  }
 }
+/*Output:
+C.T:success
+R.T:success:Tanjila
+ */
