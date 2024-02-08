@@ -6,3 +6,7 @@ public static void main(String []args){
   System.out.println(a);
   }
 }
+/*Output:
+C.T:success
+R.T:success:G
+  */
