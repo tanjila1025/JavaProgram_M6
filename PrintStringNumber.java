@@ -4,7 +4,7 @@ class PrintStringNumber{
   int a=20;
   String str1="Riya";
   System.out.println(a);
-  System.out.println(str);
+  System.out.println(str1);
   System.out.println(str1+a);//string with number
  }
 
