@@ -1,4 +1,4 @@
-class EligibleAgeVoting{
+class EligibleVotingAge{
 
   public static void main(String[] eav){
      
