@@ -1,7 +1,9 @@
+//Create Java Project to Print MarkSheet
+
 public class Mark_Sheet_Project {
         public static void main(String[] args){
          
-        String cname="A.G.Patil Institute of Technology Solapur";
+        String cname="A.G.Patil Institute of Technology Solapur";//variable declaration & initilization.
         String affiliated="Dr.Baba Saheb Ambedkar Techology University";
         String sname="Tanjila";
         String rollno="1",sec="A",e1="sem";//student info
@@ -15,19 +17,19 @@ public class Mark_Sheet_Project {
         //grade
         String grade=(p>=90&&p<=100)?("A"):((p>=70&&p<=80)?("B"):(p>=60&&p<=50)?("C"):(p>=40&&p<=30)?("D"):("Fail"));//ternery operator
         System.out.println("*****************************************************************************************************************************************");
-        System.out.println("                                           "+cname);
+        System.out.println("                                           "+cname);//college name
         System.out.println();
         System.out.println("                                           "+affiliated);
         System.out.println(); 
         System.out.println("*****************************************************************************************************************************************");
-        System.out.println(" Name:"+sname+"                                                                  Date:12/5/2023");
+        System.out.println(" Name:"+sname+"                                                                  Date:12/5/2023");//student information
         System.out.println("*****************************************************************************************************************************************");
         System.out.println(" Roll NO:"+rollno+"                         Section:"+sec+"                                     Exam:"+e1);
         System.out.println("*****************************************************************************************************************************************");
         System.out.println();//subject,marks,obtained marks
         System.out.println("Subject                                             Full Mraks                          Obtained Marks");
         System.out.println("*****************************************************************************************************************************************");
-        System.out.println(" #"+s1+"                                                    "+FM+"                                   "+SB1);
+        System.out.println(" #"+s1+"                                                    "+FM+"                                   "+SB1);//all subject
         System.out.println();
         System.out.println(" #"+s2+"                                                    "+FM+"                                   "+SB2);
         System.out.println(); 
